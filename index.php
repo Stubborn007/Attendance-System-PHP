@@ -1,6 +1,6 @@
 <?php include_once('templates/header.php') ?>
 <?php
-require_once('includes/main.funct
+require_once('includes/main.function.inc.php');
 ?>
 <link rel="stylesheet" href="styles/index.css">
 <section class="container cover-body">
